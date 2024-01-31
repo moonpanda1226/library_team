@@ -59,5 +59,6 @@ public class MemberDAO extends AbstractDAO {
 		return result;
 
 	}
+	
 
 }
